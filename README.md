@@ -11,4 +11,6 @@ The tool has two accepted flags: -p/--path to especify the path to be analyzed a
 Just the -p/--path flag is mandatory.
 
 ## Example
+```
 py folderInventory.py -p path_to_be_analyzed -o path_to_write_inventory/filename
+```
